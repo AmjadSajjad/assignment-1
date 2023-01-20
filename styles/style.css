@@ -1,0 +1,204 @@
+.header{
+    background-image: url(/images/banner/banner2.png);
+    width: 1340px;
+    height: 800px;
+    margin-bottom: 100px;
+
+}
+.header-container{
+    width: 525px;
+    height: 225px;
+    float: right;
+    display: ;
+
+
+
+}
+.header-title{
+    float: right;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-top: 200px;
+    text-align: right;
+}
+.header-description{
+    float:right;
+    color: #757575;
+    text-align: right;
+    margin-right: 100px;
+    font-size: 20px;
+}
+.button-1{
+    float: right;
+    margin-right: 100px;
+    background: #F15B22;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+
+}
+
+/* acheivment section */
+#image-1{
+    float: right;
+    margin-right: 150px;
+}
+.my-acheiv-container{
+    display: flex;
+    width: 1340px;
+    height: 600px;
+    align-items: center;
+}
+.my-acheiv{
+    margin-left: 150px;
+
+}
+.acheiv-title{
+    font-weight: 700;
+    font-size: 40px;
+}
+.acheiv-description{
+    color: #757575;
+    font-size: 20px;
+    text-align: justify;
+
+
+}
+.all-acheivments{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+/* failers section */
+.my-failer-container{
+    display: flex;
+    width: 1340px;
+    height: 600px;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.my-failer{
+margin-right: 150px;
+
+}
+.failer-title{
+    font-weight: 700;
+    font-size: 40px;
+}
+.failer-description{
+    color: #757575;
+    font-size: 20px;
+    text-align: justify;
+}
+.all-failers{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 700;   
+}
+#image-2{
+    margin-left: 100px;
+
+}
+/* my plans style */
+.my-plan-section{
+    margin-top: 200px;
+    margin-bottom: 150px;
+
+}
+.new-year-plan{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+.my-plans-container{
+    display: flex;
+    
+    justify-content: space-between;
+    margin: 0 100px;
+}
+/* mindset section style */
+.mindset-container{
+    width: 1200px;
+    height: 300px;
+    background-image: url(/images/watch.png);
+    margin-left: 150px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-blend-mode:;
+    margin-bottom: 150px;
+
+}
+.mindset{
+    background-image: url(/images/gradient2.png);
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 300px;
+
+}
+.mindset-title{
+
+    font-weight: 700;
+    font-size: 40px;
+    color: aliceblue;
+    padding: 50px 0 10px 50px;
+
+}
+.button-2{
+    width: 100px;
+    height:40px;
+    border: none;
+    color: #F15B22;
+    background-color: aliceblue;
+    font-weight: 600;
+    font-size: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+/* footer style */
+.footer{
+    
+}
+.contact-container{
+    width: 1340px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;
+    color: aliceblue;
+    align-items: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.contact-title{
+    padding-left: 50;
+}
+.contact{
+    padding: 130px 0px 130px 130px;
+    width: 500px;
+
+}
+.subscribe{
+    margin-right: 130px;
+}
+.button-3{
+    margin-top: 10px;
+    width: 100px;
+    height:40px;
+    border: none;
+    color: #F15B22;
+    background-color: aliceblue;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 4px;
+    
+
+}
