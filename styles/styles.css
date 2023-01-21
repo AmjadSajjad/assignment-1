@@ -128,7 +128,7 @@ margin-right: 150px;
 .mindset-container{
     width: 1200px;
     height: 300px;
-    background-image: url(/images/watch.png);
+    background-image: url(../images/watch.png);
     margin-left: 150px;
     background-position: cover;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ margin-right: 150px;
 
 }
 .mindset{
-    background-image: url(/images/gradient2.png);
+    background-image: url(../images/gradient2.png);
     background-repeat: no-repeat;
     width: 1200px;
     height: 300px;
